@@ -3,13 +3,13 @@
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on a TV series called Game of Thrones. 
-The hit series Game Of Thrones is very well-known for its fascinating plot and diverse characters, achieving high success in retaining viewership rates up until its final season. Thus, we are motivated to investigate the reasons behind the shows’ success. The detailed walkthrough is as follows. We first searched for a dataset on Kaggle and did data visualisation and exploratory data analysis. Then we cleaned the data and picked some variables to build a a binar classification model. We first used a decision tree and found that accuracy as measured by AUC was low  and thus learned some new models to improve on our prediction model including Cost Complexity Pruning (CCP), Random Forest, Random Forest with Feature Selection, XGBoost, XGBoost with GridSearchCV and Light GBM.
+The hit series Game Of Thrones is very well-known for its fascinating plot and diverse characters, achieving high success in retaining viewership rates up until its final season. Thus, we are motivated to investigate the reasons behind the shows’ success. The detailed walkthrough is as follows. We first searched for a dataset on Kaggle and did data visualisation and exploratory data analysis. Then we cleaned the data and picked some variables to build a binary classification model. We first used a decision tree and found that accuracy as measured by AUC was low  and thus learned some new models to improve on our prediction model including Cost Complexity Pruning (CCP), Random Forest, Random Forest with Feature Selection, XGBoost, XGBoost with GridSearchCV and Light GBM.
 
 ## Problem Definition
 - We will build and evaluate various machine learning models to understand the relationship between different variables in the dataset and mortality of characters(happy ending). 
 - Through modeling the success of Game of Thrones, we will then derive several data-driven insights that can be used to recommend ways for other TV shows in the entertainment industry to enhance and retain their viewership rates as well.
 
-## Models Used
+## Machine Learning Models Used
 
 1. Decision Tree Classification
 2. Cost Complexity Pruning (CCP)
