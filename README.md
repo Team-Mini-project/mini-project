@@ -25,7 +25,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Popularity is the strongest predictor for the response variable isAlive, followed by dateOfBirth, age and totalBooksin, and other variables are weaker predictors for isAlive.
 - It is necessary to pick out some important variables with missing data and unreasonable outliers to fix them.
 - Pure decision tree is a naive ML method in this case, we can do Cost Complexity Pruning (CCP), Random Forest, XGBoost, XGBoost with GridSearchCV and Light GBM to improve it.
-- killing popular characters potentially increases viewership rate as they are shocking and stimulate conversation online.
+- Killing popular characters potentially increases viewership rate as they are shocking and stimulate conversation online.
 
 ## What did we learn from this project?
 
