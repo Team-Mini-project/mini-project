@@ -34,4 +34,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Concepts about Precision, ROC AUC, and F1 Score
 
 ## References
-
+https://medium.com/@peterworcester_29377/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85#:~:text=Once%20again%2C%20the%20Grid%20Search,instead%20perform%20a%20Randomized%20Search (A comparison of Grid Search and Randomized Search using ScikitLearn)
+https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663 (XgBoost Fine Tune and Optimize your model)
+https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/ (Light Gradient Boosted Machine LightGBM Ensemble)
