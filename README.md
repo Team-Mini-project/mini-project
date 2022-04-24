@@ -1,4 +1,4 @@
-# Welcome to movie-analysis repository
+# Welcome to GOT repository
 
 ## About
 
