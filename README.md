@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on a TV series called [Game of Thrones](https://developers.themoviedb.org/3/getting-started). The detailed walkthrough is as follows. We first searched for dataset on Kaggle and did data visualisation and analysis. Then we cleaned the data and picked some variables to build a decision tree. We found that accuracy as measured by AUC was low  and thus learned some new models to improve, including Cost Complexity Pruning (CCP), Random Forest, XGBoost, XGBoost with GridSearchCV and Light GBM.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on a TV series called Game of Thrones. The detailed walkthrough is as follows. We first searched for dataset on Kaggle and did data visualisation and analysis. Then we cleaned the data and picked some variables to build a decision tree. We found that accuracy as measured by AUC was low  and thus learned some new models to improve, including Cost Complexity Pruning (CCP), Random Forest, XGBoost, XGBoost with GridSearchCV and Light GBM.
 
 ## Problem Definition
 
